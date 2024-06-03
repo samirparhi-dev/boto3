@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsamirparhi-dev%2Fboto3.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsamirparhi-dev%2Fboto3?ref=badge_shield)
+
 ===============================
 Boto3 - The AWS SDK for Python
 ===============================
@@ -149,3 +151,6 @@ More Resources
 * `Changelog <https://github.com/boto/boto3/blob/develop/CHANGELOG.rst>`__
 * `License <https://github.com/boto/boto3/blob/develop/LICENSE>`__
 --end--
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsamirparhi-dev%2Fboto3.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsamirparhi-dev%2Fboto3?ref=badge_large)
